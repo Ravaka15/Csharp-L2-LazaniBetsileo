@@ -1,0 +1,11 @@
+E:\Ravaka\Projet\LazaniBetsileo\Accueil\obj\Release\Accueil.Client.resources
+E:\Ravaka\Projet\LazaniBetsileo\Accueil\obj\Release\Accueil.Livraison.resources
+E:\Ravaka\Projet\LazaniBetsileo\Accueil\obj\Release\Accueil.Dashboard.resources
+E:\Ravaka\Projet\LazaniBetsileo\Accueil\obj\Release\Accueil.Facture.resources
+E:\Ravaka\Projet\LazaniBetsileo\Accueil\obj\Release\Accueil.Fournisseur.resources
+E:\Ravaka\Projet\LazaniBetsileo\Accueil\obj\Release\Accueil.Index.resources
+E:\Ravaka\Projet\LazaniBetsileo\Accueil\obj\Release\Accueil.Achats.resources
+E:\Ravaka\Projet\LazaniBetsileo\Accueil\obj\Release\Accueil.Pannier.resources
+E:\Ravaka\Projet\LazaniBetsileo\Accueil\obj\Release\Accueil.Produit.resources
+E:\Ravaka\Projet\LazaniBetsileo\Accueil\obj\Release\Accueil.Properties.Resources.resources
+E:\Ravaka\Projet\LazaniBetsileo\Accueil\obj\Release\LazaniBetsileo.csproj.GenerateResource.Cache

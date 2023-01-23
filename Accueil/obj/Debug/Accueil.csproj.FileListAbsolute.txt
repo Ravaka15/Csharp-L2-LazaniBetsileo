@@ -1,0 +1,16 @@
+E:\Ravaka\Projet\Accueil\Accueil\bin\Debug\Accueil.exe.config
+E:\Ravaka\Projet\Accueil\Accueil\bin\Debug\Accueil.exe
+E:\Ravaka\Projet\Accueil\Accueil\bin\Debug\Accueil.pdb
+E:\Ravaka\Projet\Accueil\Accueil\obj\Debug\Accueil.csprojResolveAssemblyReference.cache
+E:\Ravaka\Projet\Accueil\Accueil\obj\Debug\Accueil.Properties.Resources.resources
+E:\Ravaka\Projet\Accueil\Accueil\obj\Debug\Accueil.csproj.GenerateResource.Cache
+E:\Ravaka\Projet\Accueil\Accueil\obj\Debug\Accueil.exe
+E:\Ravaka\Projet\Accueil\Accueil\obj\Debug\Accueil.pdb
+E:\Ravaka\Projet\Accueil\Accueil\obj\Debug\Accueil.Index.resources
+E:\Ravaka\Projet\Accueil\Accueil\obj\Debug\Accueil.Dashboard.resources
+E:\Ravaka\Projet\Accueil\Accueil\obj\Debug\Accueil.Achats.resources
+E:\Ravaka\Projet\Accueil\Accueil\obj\Debug\Accueil.Client.resources
+E:\Ravaka\Projet\Accueil\Accueil\obj\Debug\Accueil.Facture.resources
+E:\Ravaka\Projet\Accueil\Accueil\obj\Debug\Accueil.Fournisseur.resources
+E:\Ravaka\Projet\Accueil\Accueil\obj\Debug\Accueil.Livraison.resources
+E:\Ravaka\Projet\Accueil\Accueil\obj\Debug\Accueil.Produit.resources
